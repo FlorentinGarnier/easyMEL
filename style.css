@@ -1,0 +1,17 @@
+@fontface
+{
+  font-family: 'openSansCondLight'
+  src: url('font/OpenSans-CondLight.ttf') format('truetype')
+}
+@fontface
+{
+  font-family: 'openSansCondBold'
+  src: url('font/OpenSans-CondBold.ttf') format('truetype')
+}
+
+#container
+{
+  font-family: openSansCondLight, sans-serif;
+  width: 1024px;
+  margin: auto;
+}
