@@ -72,6 +72,7 @@ header
 {
   background-color: #000000;
   margin-bottom: 0px;
+  font-family: josefin_sansbold;
 }
 
 #banner
@@ -84,9 +85,9 @@ header
 #intro
 {
   color: #dcdcdc;
-  font-size: 1.2em;
+  font-size: 1.5em;
   margin-bottom: 0px;
-  position: relative;
+  
 }
 
 #intro p
@@ -96,7 +97,7 @@ header
     padding-bottom: 50px;
     width: 50%;
     padding-left: 50px;
-}
+   }
 
 .categorie
 {
