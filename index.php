@@ -1,9 +1,9 @@
-<!DOCTYPE HTML!>
+<!DOCTYPE HTML>
 <html>
 	<head>
-		<meta charset="utf-8" />
-		<meta name="author" content="Florentin Garnier"/>
-		<meta name="contact" content="garnier.florentin@gmail.com" />
+		<meta charset="utf-8" >
+		<meta name="author" content="Florentin Garnier">
+		<meta name="contact" content="garnier.florentin@gmail.com" >
 		<title>EasyMEL</title>
 		<link href="stylesheet.css" rel="stylesheet" />
 	</head>
@@ -23,17 +23,17 @@
 		    </div>
 		    
 
-		    <section class=categorie>
+		    <section class="categorie">
 			    <h2>Cat B (3 days)</h2>
 			    <h2>Deadline <?php echo gmdate('d-M-y', strtotime('+3 days'));?> 23:59 UTC</h2>
 		    </section>
 
-		    <section class=categorie>
+		    <section class="categorie">
 			    <h2>Cat C (10 days)</h2>
 			    <h2>Deadline <?php echo gmdate('d-M-y', strtotime('+10 days'));?> 23:59 UTC</h2>
 		    </section>
 
-		    <section class=categorie>
+		    <section class="categorie">
 			    <h2>Cat D (120 days)</h2>
 			    <h2>Deadline <?php echo gmdate('d-M-y', strtotime('+120 days'));?> 23:59 UTC</h2>
 		    </section>
